@@ -1,0 +1,31 @@
+p {
+    color: red;
+}
+
+#primerparrafo {
+    color: blue;
+}
+
+p.subrayado {
+    text-decoration:underline;
+}
+
+.otratipografia {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 900;
+    font-style: italic;
+    line-height: 55px;
+}
+
+.fondodecolor {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    background-image: url('../img/brooklyn-nine-nine-poster.jpg');
+    background-size: 95px;
+    color: white;
+    background-repeat: no-repeat;
+}
+

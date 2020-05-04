@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.caja1, .caja2, .caja3 {
+    margin: 20px 0;
+    color: white;
+}
+
+.caja1 { 
+    background-color: #b8b838;
+    margin: 0 auto;
+    width: 70%;
+    padding: 10%;
+    margin-bottom: 10px;
+}
+
+.caja2 { 
+background-color: rgb(49, 202, 49);
+overflow: hidden;
+margin: 0 auto;
+width: 70%;
+}
+
+.caja3 { 
+    background-color: rgb(212, 75, 178);
+    margin: 0 auto;
+    width: 70%;
+    padding: 10%;
+    clear: both;
+    margin-top: 10px;
+}
+
+p span {
+    background-color: black;
+}
+
+.articulo1 {
+    border: 3px brown dotted;
+    background-color:yellow;
+}
+
+.articulo2 {
+    background-color: green;
+}
+
+.articulo3 {
+    background-color: rgb(53, 20, 240);
+}
+
+section article {
+    padding: 5%;
+    margin: 5%;
+    float: left;
+    width: 20%;
+    height: 10 px;
+}
